@@ -1,7 +1,6 @@
-{"credits":{"blaiszik":7}}
-{"credits":{"ward":10}}
-{"credits":{"pruyne":15}}
-{"credits":{"james":15}}
-{"credits":{"foster":7}}
-{"credits":{"blaiszik":2}}
-
+{"data_credits":{"blaiszik":7}}
+{"ai_credits":{"ward":10}}
+{"infrastructure_credits":{"pruyne":15}}
+{"data_credits":{"james":15}}
+{"ai_credits":{"foster":7}}
+{"data_credits":{"blaiszik":2}}
